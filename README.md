@@ -1,6 +1,6 @@
 unicorn
 =======
-unicorn is a little game by koex, developed in python using pygame.
+unicorn is a little game by koex (also known as ethicalsignal), developed in python using pygame. This version is deprecated and requires Python 2.
 
 Please report bugs.
 
